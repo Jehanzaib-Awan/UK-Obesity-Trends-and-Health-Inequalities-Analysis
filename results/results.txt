@@ -1,0 +1,24 @@
+UK Obesity Trends and Health Inequalities Analysis
+
+Data periods analysed: 10
+Period labels: 2015/16 to 2024/25 (labels retained as published by OHID)
+Population: England residents aged 18 years and over; Persons (both sexes)
+
+England overall obesity trend:
+First period (2015/16): 22.6%
+Latest period (2024/25): 26.6%
+Change from first to latest period: +4.0 percentage points
+
+Latest-period least deprived group (project code 1, 2024/25): 20.0%
+Latest-period most deprived group (project code 10, 2024/25): 37.6%
+Deprivation gap in latest period (project code 10 minus code 1): 17.6 percentage points
+Deprivation gap in first period (project code 10 minus code 1, 2015/16): 14.1 percentage points
+Change in the deprivation gap, first to latest period: +3.5 percentage points
+
+Interpretation:
+England adult obesity prevalence in the latest period was higher than in the first period. The most deprived OHID category (project code 10) had a higher reported prevalence than the least deprived category (project code 1) in the latest period, showing a descriptive deprivation gradient.
+These are descriptive differences in published aggregate estimates. They show an area-level pattern and do not establish that deprivation causes obesity.
+
+Source: OHID Obesity, Physical Activity and Nutrition Profile, May 2026 update; adult indicator IDs 93881 and 93088.
+Decile numbers follow the project brief: 1 = least deprived and 10 = most deprived; this is reverse to conventional English IMD numeric deciles.
+Obesity percentages and calculated gaps are displayed to one decimal place; gap and change calculations use the unrounded downloaded values.
